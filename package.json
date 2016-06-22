@@ -1,0 +1,20 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp-mocha": "^2.2.0"
+  }
+}

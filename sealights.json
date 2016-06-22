@@ -1,0 +1,8 @@
+{
+	"server": "https://dev-kobi-gw.sealights.co/api",
+	"customerId": "cus1",
+	"appName": "app1",
+	"build": "5",
+	"branch": "master",
+	"environmentName": "Unit Tests"
+}
